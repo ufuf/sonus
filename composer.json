@@ -1,0 +1,24 @@
+{
+    "name": "volrac/sonus",
+    "description": "A laravel audio and video conversion, thumbnail generator and metadata editor package powered by ffmpeg",
+    "keywords": ["laravel", "ffmpeg", "ffprobe", "converter"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlo Villamayor",
+            "email": "carlo.villamayor@gmail.com"
+        },
+        {
+            "name": "Rafael Sampaio",
+            "email": "rafaelsampaio@live.com"
+        },
+        {
+            "name": "Closca Costel",
+            "email": "closca.costel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "laravel/framework": "5.0.*"
+    }
+}
