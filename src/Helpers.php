@@ -1,4 +1,4 @@
-<?php namespace Closca\Sonus;
+<?php namespace Volrac\Sonus;
 
 class Helpers
 {

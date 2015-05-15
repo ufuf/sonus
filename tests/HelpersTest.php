@@ -1,6 +1,6 @@
 <?php
 
-use Closca\Sonus\Helpers;
+use Volrac\Sonus\Helpers;
 
 class HelpersTest extends PHPUnit_Framework_TestCase
 {

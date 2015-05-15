@@ -1,6 +1,6 @@
 <?php
 
-use Closca\Sonus\Sonus;
+use Volrac\Sonus\Sonus;
 
 class SonusIncorrectInputTest extends PHPUnit_Framework_TestCase
 {
@@ -15,7 +15,7 @@ class SonusIncorrectInputTest extends PHPUnit_Framework_TestCase
     /**
      * Setup Sonus object
      * 
-     * @return Closca\Sonus\Sonus
+     * @return Volrac\Sonus\Sonus
      */
     function setUp()
     {

@@ -1,4 +1,4 @@
-<?php namespace Closca\Sonus;
+<?php namespace Volrac\Sonus;
 
 use Illuminate\Support\ServiceProvider;
 

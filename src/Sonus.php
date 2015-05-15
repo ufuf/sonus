@@ -1,7 +1,7 @@
-<?php namespace Closca\Sonus;
+<?php namespace Volrac\Sonus;
 
 use Config;
-use Closca\Sonus\Helpers;
+use Volrac\Sonus\Helpers;
 
 /**
  * Laravel Audio Conversion Package
